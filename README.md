@@ -1,6 +1,6 @@
 # Algorithm_dong149_2
 기존 repository의 내용이 많아져서 두 번째 repository를 생성했습니다.
-![첫 번째 repository 바로가기](https://github.com/dong149/Algorithm_dong149)
+[첫 번째 repository 바로가기](https://github.com/dong149/Algorithm_dong149)
 
 <h3><p align="center">
   <b>🤔 알고리즘 문제 해결 및 여러 테스트 with JAVA ver2.0</b>
